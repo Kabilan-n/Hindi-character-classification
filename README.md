@@ -9,7 +9,7 @@ Dataset contains eperated test and train sets of images with Letters and images 
 Model used:  VGG with some added layers.
 
 Initially the backgrounds in the image with letters were removed.
-![image](https://user-images.githubusercontent.com/59824729/135139673-7504ace8-13e0-4589-a127-e161b018a93b.png)
+![image](https://github.com/Kabilan-n/Hindi-letter-classification/blob/main/images/bg1.png) >> ![image](https://github.com/Kabilan-n/Hindi-letter-classification/blob/main/images/letter1.png)
 Then the new set of images with only letters and background were fed into VGG. Then the weights of the model with some additional layers were used on the original dataset to classify images with letters and images without letters.
 
 
