@@ -21,7 +21,7 @@ At last the model is test with the given test data. The result of test data was 
 
 ## Output 
 
-![image](https://github.com/Kabilan-n/Hindi-letter-classification/blob/main/images/with.png)             ![image](https://github.com/Kabilan-n/Hindi-letter-classification/blob/main/images/without.png)
+![image](https://github.com/Kabilan-n/Hindi-letter-classification/blob/main/images/with.png)        ![image](https://github.com/Kabilan-n/Hindi-letter-classification/blob/main/images/without.png)
   
 
   
